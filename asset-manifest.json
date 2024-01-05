@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anime-guessing-game/static/css/main.250e8535.css",
+    "main.js": "/anime-guessing-game/static/js/main.47ce4b78.js",
+    "static/js/787.738c8db4.chunk.js": "/anime-guessing-game/static/js/787.738c8db4.chunk.js",
+    "index.html": "/anime-guessing-game/index.html",
+    "main.250e8535.css.map": "/anime-guessing-game/static/css/main.250e8535.css.map",
+    "main.47ce4b78.js.map": "/anime-guessing-game/static/js/main.47ce4b78.js.map",
+    "787.738c8db4.chunk.js.map": "/anime-guessing-game/static/js/787.738c8db4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250e8535.css",
+    "static/js/main.47ce4b78.js"
+  ]
+}
